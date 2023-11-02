@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ConAltDelete
 - 👀 I’m interested in programming ....... in what? My answer is what you got.
 - 🌱 I’m currently learning
-  - golang
+  - Golang
+  - R
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me:
   Email: mats.hoem.olsen@nmbu.no
