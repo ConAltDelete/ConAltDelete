@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @ConAltDelete
-- 👀 I’m interested in programming ....... in what? My answer is what you got.
+- 👀 I’m interested in programming and programming solutions.
 - 🌱 I’m currently learning
   - Golang
   - R
+  - Python
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me:
-  Email: mats.hoem.olsen@nmbu.no
+  Email: mats.hoem.olsen@gmail.no
 
 <!---
 ConAltDelete/ConAltDelete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
