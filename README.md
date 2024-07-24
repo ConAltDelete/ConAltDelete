@@ -11,7 +11,7 @@ I'm glad you asked! I am a Civil Engineer in Computer Science who has a speciali
 
 ## Wow, amazing! How do I contact you?
 
-You can contact me via email:
+You can contact me via:
 
 - 📧: ruff.start98@gmail.com
 - 🐘: https://mastodon.social/@Subway_rat
