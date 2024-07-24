@@ -5,20 +5,21 @@
   - Golang
 - 💞️ I’m looking to collaborate on anything!
 
-## Any specialty? 
+## Any speciality? 
 
-Glad you asked! I am a Civil Engineer in Computer Science who has a specialization in Mathematics and Statitics, but you can just call me Mats😅
+I'm glad you asked! I am a Civil Engineer in Computer Science who has a specialization in Mathematics and Statistics, but you can just call me Mats😅
 
 ## Wow, amazing! How do I contact you?
 
 You can contact me via email:
-📧: ruff.start98@gmail.com
-🐘: https://mastodon.social/@Subway_rat
-🧑‍🚀: https://odysee.com/@ruff.start98:f
 
-For business related things use: mats.hoem.olsen@gmail.com
+- 📧: ruff.start98@gmail.com
+- 🐘: https://mastodon.social/@Subway_rat
+- 🧑‍🚀: https://odysee.com/@ruff.start98:f
 
-Or find me on the internet, I'm extraordinarily easy to find, and contact.
+For business-related things use: mats.hoem.olsen@gmail.com
+
+Or find me on the internet, I'm easy to find, and to contact.
 
 <!---
 ConAltDelete/ConAltDelete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
