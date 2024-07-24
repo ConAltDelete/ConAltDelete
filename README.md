@@ -16,6 +16,8 @@ You can contact me via email:
 🐘: https://mastodon.social/@Subway_rat
 🧑‍🚀: https://odysee.com/@ruff.start98:f
 
+For business related things use: mats.hoem.olsen@gmail.com
+
 Or find me on the internet, I'm extraordinarily easy to find, and contact.
 
 <!---
