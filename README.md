@@ -21,6 +21,21 @@ For business-related things use: mats.hoem.olsen@gmail.com
 
 Or find me on the internet, I'm easy to find, and to contact.
 
+## Notable projects
+
+AI:
+  * [Image & text sematics](https://github.com/ConAltDelete/UniNMBU/tree/master/DAT300)
+  * [Kernal manipulation and regatio](https://github.com/ConAltDelete/UniNMBU/tree/master/DAT200)
+
+Coding problems:
+  * [Advent of Code & Happy meal mix](https://github.com/ConAltDelete/AdventOfCodeConAltDelete)
+  * [Terminal plotting](https://github.com/ConAltDelete/Terminal-plot)
+  * [Miscellaneous](https://github.com/ConAltDelete/JobbSokOppg)
+
+University projects:
+  * [Image pattern matching](https://github.com/ConAltDelete/INF205_H22)
+  * [Biology simulation](https://github.com/ConAltDelete/Bio-sim)
+
 <!---
 ConAltDelete/ConAltDelete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
